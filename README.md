@@ -1,6 +1,6 @@
 # Manifold-Aware Contrastive Learning for Noise-Robust Speech Representations
 
-This repository contains the full implementation of our IEEE MLSP 2025 paper, where we explore a geometry-preserving approach to robust speech embedding learning. Our method combines SimCLR-style contrastive learning with Laplacian graph-based regularization, without relying on augmentation diversity.
+This repository contains the full implementation of our paper, where we explore a geometry-preserving approach to robust speech embedding learning. Our method combines SimCLR-style contrastive learning with Laplacian graph-based regularization, without relying on augmentation diversity.
 
 ## Structure
 
